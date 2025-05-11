@@ -1,0 +1,19 @@
+baseURL: "https://jingyutang.github.io/"
+languageCode: en-us
+title: TangJingyu
+
+
+
+
+############################ Markup ##############################
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+            # hardWraps: true
+
+
+
+
+
+
