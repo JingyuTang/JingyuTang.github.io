@@ -118,11 +118,11 @@ projects:
     link: https://github.com/JingyuTang/google-books-sql-project
 
 
-  - name: Orizon
-    desc: Web development
+  - name: API application
+    desc: API and Web Scraping Application
     image: images/project/p2.png
     category: Data Analysis
-    link: https://github.com/JingyuTang
+    link: https://github.com/yuxuananakinliu/BAX-422-API-Application
 
 
   - name: Fundo
